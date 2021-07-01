@@ -41,7 +41,7 @@ int main()
 //in for loop, m gets incremented first and then the condition is checked
 //so it is (m - 1)
 
-    printf("\nThe total number of solutions is %d", count);
+    printf("\nThe total number of solutions is %d\n", count);
 }
 
 void GraphColoring(int k)
